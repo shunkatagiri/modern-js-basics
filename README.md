@@ -1,2 +1,2 @@
-# modern-js-basics
-Created with CodeSandbox
+モダンJavaScriptの基礎から始める挫折しないためのReact入門
+で使うJavaScriptの練習用コード
